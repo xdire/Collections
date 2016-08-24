@@ -1,0 +1,17 @@
+{
+  "name": "xdire/Collections",
+  "description": "Different collections for easy data manage and traverse",
+  "license": "MIT",
+  "keywords": ["collections","list","stack","linked list","data","data management"],
+  "authors": [
+    {
+      "name": "Anton Repin",
+      "email": "ar@xdire.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Xdire\\Collections\\": "src"
+    }
+  }
+}
